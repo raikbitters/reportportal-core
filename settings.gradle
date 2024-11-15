@@ -1,8 +1,6 @@
 rootProject.name = 'reportportal-core'
 
 include 'commons'
-include 'commons-dao'
-include 'plugin-api'
 
 include 'service-api'
 include 'service-authorization'
