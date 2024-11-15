@@ -7,9 +7,3 @@
 [submodule "commons"]
 	path = commons
 	url = https://github.com/reportportal/commons
-[submodule "commons-dao"]
-	path = commons-dao
-	url = https://github.com/reportportal/commons-dao
-[submodule "plugin-api"]
-	path = plugin-api
-	url = https://github.com/reportportal/plugin-api
